@@ -1,0 +1,6 @@
+Solution {
+public:
+    int subtractProductAndSum(int n) {
+        
+    }
+};class
